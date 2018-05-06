@@ -4,4 +4,4 @@
 
 Final del curso The PHP Practicioner.
 
-Lo mantendo por cualquier cosa.
+Lo mantengo por practica
